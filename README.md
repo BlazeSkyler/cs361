@@ -18,4 +18,4 @@ An example of printing the JSON would be print(response.text).
 
 4. UML Sequence Diagram
 
-!"UML Diagram" (./uml.jpg)
+!["UML Diagram"] (./uml.jpg)
